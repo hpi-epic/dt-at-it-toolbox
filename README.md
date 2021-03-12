@@ -8,7 +8,7 @@ The goals of the included tools include increasing empathy towards the own team 
 - [Personal Inventory](methods/01%20-%20Personal%20Inventory.pdf)
 - [Character Profiles](methods/02%20-%20Character%20Profiles.pdf)
 - [Customer Journey Map](methods/03%20-%20Customer%20Journey%20Map.pdf)
-- [Customer Journey Map Template and Example](methods/03%20-%20Customer%20Journey%20Map%20Template%20and%20Example.pdf)
+    - [Template and Example](methods/03%20-%20Customer%20Journey%20Map%20Template%20and%20Example.pdf)
 - [Five Whys](methods/04%20-%20Five%20Whys.pdf)
 - [Letter to Grandma](methods/05%20-%20Letter%20to%20Grandma.pdf)
 - [A Beginner's Mind](methods/06%20-%20A%20Beginner's%20Mind.pdf)

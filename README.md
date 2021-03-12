@@ -11,7 +11,7 @@ The goals of the included tools include increasing empathy towards the own team 
 - [Customer Journey Map Template and Example](methods/03%20-%20Customer%20Journey%20Map%20Template%20and%20Example.pdf)
 - [Five Whys](methods/04%20-%20Five%20Whys.pdf)
 - [Letter to Grandma](methods/05%20-%20Letter%20to%20Grandma.pdf)
-- [A Beginner's Mind](methods/06%20-%20A%20Beginner's%20Mind.pdf)
+- [A Beginner's Mind](methods/06%20-%20A%20Beginner_s%20Mind.pdf)
 - [30 Second Sketch](methods/07%20-%2030%20Second%20Sketch.pdf)
 - [Powers of Ten](methods/08%20-%20Powers%20of%20Ten.pdf)
 - [Feedback Capture Grid](methods/09%20-%20Feedback%20Capture%20Grid.pdf)

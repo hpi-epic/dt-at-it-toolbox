@@ -1,25 +1,10 @@
-# Design Thinking Method Toolbox for IT Teams
+# Design Thinking Toolbox for IT Teams
 
-This repository contains my master thesis about how to integrate *Design Thinking* into *agile IT development teams*, with the goal to increase empathy towards the own team and the end user as well as to increase product understanding. The final goal was to create a method toolbox that can be used in day-to-day development.
+This repository contains a collection of short *work sheets* for *Design Thinking* tools aimed at integrating Design Thinking into the the work of *Agile Software Development* teams.
 
-## The final toolbox consists of twelve methods
-- Personal Inventory
-- Character Profiles
-- Customer Journey Map
-- Five Whys
-- Letter to Grandma
-- A Beginner' Mind
-- 30 Second Sketch
-- Powers of Ten
-- Feedback Capture Grid
-- Five Finger Feedback
-- Empathy Tools
-- Paper Prototype
+The goals of the included tools include increasing empathy towards the own team and the end user, gathering effective feedback and increasing product understanding. 
 
-## Download
-### Thesis
-[DT@IT Toolbox - Master Thesis](DT@IT%20Method%20Toolbox%20-%20Master%20Thesis.pdf)
-### Method Sheets
+## Toolbox
 - [Personal Inventory](methods/01%20-%20Personal%20Inventory.pdf)
 - [Character Profiles](methods/02%20-%20Character%20Profiles.pdf)
 - [Customer Journey Map](methods/03%20-%20Customer%20Journey%20Map.pdf)
@@ -33,7 +18,6 @@ This repository contains my master thesis about how to integrate *Design Thinkin
 - [Five Finger Feedback](methods/10%20-%20Five%20Finger%20Feedback.pdf)
 - [Empathy Tools](methods/11%20-%20Empathy%20Tools.pdf)
 - [Paper Prototype](methods/12%20-%20Paper%20Prototype.pdf)
+
 - [General Feedback Tips](methods/General%20Feedback%20Tips.pdf)
 
-## Contact
-Please contact me if you need more information or have any type of suggestions.

@@ -1,7 +1,7 @@
 # Design Thinking Toolbox for IT Teams
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4602920.svg)](https://doi.org/10.5281/zenodo.4602920)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4602919.svg)](https://doi.org/10.5281/zenodo.4602919)
 
 [https://hpi-epic.github.io/dt-at-it-toolbox/](https://hpi-epic.github.io/dt-at-it-toolbox/)
 
